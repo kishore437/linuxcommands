@@ -1,0 +1,33 @@
+Lauch EC2 instance 
+
+Putty
+puttygen
+
+
+commands:
+
+  ifconfig -> ubuntu
+  ipconfig -> windows
+  ip a -> centos/rhel 
+  pwd -> present directory
+  ls
+  ls -a -> hidden files
+  ls -d -> directories
+  cd - change directory
+  touch
+  man
+  echo
+  create files at a time {1..10}.txt
+
+
+  mkdir -> to create directory/folder
+  rmdir -> to delete directory
+  rm -> to remove file
+  man > to help ( to fetch more info about commands)
+  uname -> check kernel versions
+  uname -a
+  check hostname  :  hostanme
+  which os :   cat /etc/os-release
+  touch {1...100}.txt > to create 10 files at a time
+  rm *.txt -> to delete files
+  rm -rf *.txt > forcely delete all files
