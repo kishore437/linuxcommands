@@ -1,2 +1,2 @@
 # linuxcommands
-linux commands
+linux commands and python code
